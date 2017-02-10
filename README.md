@@ -1,3 +1,3 @@
-# a5
+# Contrast
 
-Just a test for website theme
+Web theme with bootstrap by Rui Li
