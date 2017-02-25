@@ -1,3 +1,3 @@
 # Contrast
 
-Web theme with bootstrap by Rui Li
+Web theme with bootstrap
